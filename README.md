@@ -14,15 +14,6 @@ Elevate your online presence with my latest project, a dynamic and responsive pe
 
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## •┈••✦ ❤ ✦••┈•
-
-[![CodeFactor](https://www.codefactor.io/repository/github/codelikeagirl29/vcard-react/badge)](https://www.codefactor.io/repository/github/codelikeagirl29/vcard-react)
-
-## Screenshots
-
-![App Screenshot](https://res.cloudinary.com/codelikeagirl29/image/upload/v1705658156/projects/vCard-Resume-CV-Template_ij14hs.png)
-
-
 ## Deployment
 
 To deploy this project run
